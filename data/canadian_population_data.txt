@@ -1,0 +1,15 @@
+provs = [
+  {"prov_abbr": "AB", "prov_area_km2":  661848, "year_pop": [{"year": 2021, "pop":  4262635}, {"year": 2016, "pop":  4067175}]},
+  {"prov_abbr": "BC", "prov_area_km2":  944735, "year_pop": [{"year": 2021, "pop":  5000879}, {"year": 2016, "pop":  4648055}]},
+  {"prov_abbr": "MB", "prov_area_km2":  647797, "year_pop": [{"year": 2021, "pop":  1342153}, {"year": 2016, "pop":  1278365}]},
+  {"prov_abbr": "NB", "prov_area_km2":   72908, "year_pop": [{"year": 2021, "pop":   775610}, {"year": 2016, "pop":   747101}]},
+  {"prov_abbr": "NL", "prov_area_km2":  405212, "year_pop": [{"year": 2021, "pop":   510550}, {"year": 2016, "pop":   519716}]},
+  {"prov_abbr": "NT", "prov_area_km2": 1346106, "year_pop": [{"year": 2021, "pop":    41070}, {"year": 2016, "pop":    41786}]},
+  {"prov_abbr": "NS", "prov_area_km2":   55284, "year_pop": [{"year": 2021, "pop":   969383}, {"year": 2016, "pop":   923598}]},
+  {"prov_abbr": "NU", "prov_area_km2": 2093190, "year_pop": [{"year": 2021, "pop":    36858}, {"year": 2016, "pop":    35944}]},
+  {"prov_abbr": "ON", "prov_area_km2": 1076395, "year_pop": [{"year": 2021, "pop": 14223942}, {"year": 2016, "pop": 13448494}]},
+  {"prov_abbr": "PE", "prov_area_km2":    5660, "year_pop": [{"year": 2021, "pop":   154331}, {"year": 2016, "pop":   142907}]},
+  {"prov_abbr": "QC", "prov_area_km2": 1542056, "year_pop": [{"year": 2021, "pop":  8501833}, {"year": 2016, "pop":  8164361}]},
+  {"prov_abbr": "SK", "prov_area_km2":  651036, "year_pop": [{"year": 2021, "pop":  1132505}, {"year": 2016, "pop":  1098352}]},
+  {"prov_abbr": "YT", "prov_area_km2":  482443, "year_pop": [{"year": 2021, "pop":    40232}, {"year": 2016, "pop":    35874}]}
+]
