@@ -39,7 +39,7 @@ This Jupyter Notebook performs data analysis and visualization using Python on t
 
 ## 📂 Dataset Sources
 
-- Canadian Population Data (Structured in JSON format)
+- Canadian Population Data ([Structured in JSON format](https://github.com/Crashjoy/Jupyter-Data-Analysis/blob/main/data/canadian_population_data.txt))
 - Stack Overflow Developer Survey ([2023 Survey Data](https://survey.stackoverflow.co/))
 
 ---
